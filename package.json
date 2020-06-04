@@ -1,0 +1,17 @@
+{
+  "name": "build-and-sell",
+  "version": "1.0.0",
+  "description": "Build &amp; Sell Challenge",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
